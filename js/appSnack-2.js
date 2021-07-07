@@ -16,4 +16,3 @@ if (number % 2 == 0) {
   alert(number + 1);
 }
 
-console.log(number);
